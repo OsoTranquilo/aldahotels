@@ -15,3 +15,4 @@ class InheritResCompany(models.Model):
         Expedia company, expressed with two digits. \
         Example: 18 = 18% commission.",
     )
+    data_bi_enabled = fields.Boolean('Enable processing in DataBi', default=True)

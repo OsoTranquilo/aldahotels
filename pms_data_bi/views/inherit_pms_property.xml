@@ -13,6 +13,7 @@
                     <page string="DataBi MOP" name="property_databi">
                         <group>
                             <field name="expedia_rate" />
+                            <field name="data_bi_enabled" />
                         </group>
                     </page>
                 </xpath>
